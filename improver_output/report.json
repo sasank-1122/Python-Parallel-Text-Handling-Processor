@@ -1,0 +1,1506 @@
+{
+  "words": [
+    [
+      "support",
+      10097
+    ],
+    [
+      "and",
+      6734
+    ],
+    [
+      "service",
+      6733
+    ],
+    [
+      "for",
+      6732
+    ],
+    [
+      "diagnostics,",
+      3368
+    ],
+    [
+      "internal",
+      3368
+    ],
+    [
+      "audit",
+      3368
+    ],
+    [
+      "alerts,",
+      3368
+    ],
+    [
+      "automated",
+      3368
+    ],
+    [
+      "follow-up",
+      3368
+    ],
+    [
+      "triggers,",
+      3368
+    ],
+    [
+      "replacement",
+      3368
+    ],
+    [
+      "authorization",
+      3367
+    ],
+    [
+      "criteria,",
+      3367
+    ],
+    [
+      "warehouse",
+      3367
+    ],
+    [
+      "transfer",
+      3367
+    ],
+    [
+      "justifications.",
+      3367
+    ],
+    [
+      "generalized",
+      3367
+    ],
+    [
+      "events",
+      3367
+    ],
+    [
+      "describe",
+      3367
+    ],
+    [
+      "tracking",
+      3367
+    ],
+    [
+      "mismatches,",
+      3367
+    ],
+    [
+      "product",
+      3367
+    ],
+    [
+      "inspection",
+      3367
+    ],
+    [
+      "ticket",
+      3367
+    ],
+    [
+      "updates,",
+      3367
+    ],
+    [
+      "system",
+      3367
+    ],
+    [
+      "validation",
+      3367
+    ],
+    [
+      "checkpoints,",
+      3367
+    ],
+    [
+      "operational",
+      3367
+    ],
+    [
+      "guidance",
+      3367
+    ],
+    [
+      "improvement",
+      3367
+    ],
+    [
+      "cycles.",
+      3367
+    ],
+    [
+      "summaries,",
+      3366
+    ],
+    [
+      "inventory",
+      3366
+    ],
+    [
+      "synchronization",
+      3366
+    ],
+    [
+      "messages,",
+      3366
+    ],
+    [
+      "carrier",
+      3366
+    ],
+    [
+      "delay",
+      3366
+    ],
+    [
+      "explanations,",
+      3366
+    ],
+    [
+      "packaging",
+      3366
+    ],
+    [
+      "compliance",
+      3366
+    ],
+    [
+      "checks,",
+      3366
+    ],
+    [
+      "downtime",
+      3366
+    ],
+    [
+      "outcomes,",
+      3366
+    ],
+    [
+      "deferred",
+      3366
+    ],
+    [
+      "shipment",
+      3366
+    ],
+    [
+      "scenarios,",
+      3366
+    ],
+    [
+      "this",
+      3366
+    ],
+    [
+      "dataset",
+      3366
+    ],
+    [
+      "contains",
+      3366
+    ],
+    [
+      "incident",
+      3366
+    ],
+    [
+      "report",
+      3366
+    ],
+    [
+      "operations",
+      3365
+    ],
+    [
+      "logs",
+      3365
+    ],
+    [
+      "variant",
+      3365
+    ],
+    [
+      "it",
+      3365
+    ],
+    [
+      "includes",
+      3365
+    ],
+    [
+      "workflow",
+      3365
+    ],
+    [
+      "notes",
+      3365
+    ],
+    [
+      "about",
+      3365
+    ],
+    [
+      "eligibility",
+      3365
+    ],
+    [
+      "evaluations,",
+      3365
+    ],
+    [
+      "package",
+      3364
+    ],
+    [
+      "routing,",
+      3364
+    ],
+    [
+      "e-commerce",
+      3364
+    ],
+    [
+      "troubleshooting,",
+      3363
+    ],
+    [
+      "refund",
+      3363
+    ],
+    [
+      "yab87v.",
+      2535
+    ],
+    [
+      "qjqwp1.",
+      817
+    ],
+    [
+      "1rcdc7.",
+      13
+    ]
+  ],
+  "phrases": [
+    [
+      "diagnostics, internal",
+      3368
+    ],
+    [
+      "audit alerts,",
+      3368
+    ],
+    [
+      "automated follow-up",
+      3368
+    ],
+    [
+      "triggers, replacement",
+      3368
+    ],
+    [
+      "authorization criteria,",
+      3367
+    ],
+    [
+      "and warehouse",
+      3367
+    ],
+    [
+      "transfer justifications.",
+      3367
+    ],
+    [
+      "generalized support",
+      3367
+    ],
+    [
+      "events describe",
+      3367
+    ],
+    [
+      "tracking mismatches,",
+      3367
+    ],
+    [
+      "product inspection",
+      3367
+    ],
+    [
+      "service ticket",
+      3367
+    ],
+    [
+      "updates, system",
+      3367
+    ],
+    [
+      "validation checkpoints,",
+      3367
+    ],
+    [
+      "and operational",
+      3367
+    ],
+    [
+      "guidance for",
+      3367
+    ],
+    [
+      "improvement cycles.",
+      3367
+    ],
+    [
+      "summaries, inventory",
+      3366
+    ],
+    [
+      "synchronization messages,",
+      3366
+    ],
+    [
+      "carrier delay",
+      3366
+    ],
+    [
+      "explanations, packaging",
+      3366
+    ],
+    [
+      "compliance checks,",
+      3366
+    ],
+    [
+      "service downtime",
+      3366
+    ],
+    [
+      "outcomes, deferred",
+      3366
+    ],
+    [
+      "shipment scenarios,",
+      3366
+    ],
+    [
+      "this dataset",
+      3366
+    ],
+    [
+      "contains support",
+      3366
+    ],
+    [
+      "incident report",
+      3366
+    ],
+    [
+      "operations logs",
+      3365
+    ],
+    [
+      "for variant",
+      3365
+    ],
+    [
+      "includes workflow",
+      3365
+    ],
+    [
+      "notes about",
+      3365
+    ],
+    [
+      "eligibility evaluations,",
+      3365
+    ],
+    [
+      "package routing,",
+      3364
+    ],
+    [
+      "e-commerce support",
+      3364
+    ],
+    [
+      "troubleshooting, refund",
+      3363
+    ],
+    [
+      "support events",
+      3355
+    ],
+    [
+      "describe tracking",
+      3355
+    ],
+    [
+      "operational guidance",
+      3355
+    ],
+    [
+      "for improvement",
+      3355
+    ],
+    [
+      "generalized events",
+      3355
+    ],
+    [
+      "support describe",
+      3355
+    ],
+    [
+      "events tracking",
+      3355
+    ],
+    [
+      "describe mismatches,",
+      3355
+    ],
+    [
+      "and guidance",
+      3355
+    ],
+    [
+      "operational for",
+      3355
+    ],
+    [
+      "guidance improvement",
+      3355
+    ],
+    [
+      "for cycles.",
+      3355
+    ],
+    [
+      "checks, service",
+      3354
+    ],
+    [
+      "downtime diagnostics,",
+      3354
+    ],
+    [
+      "internal audit",
+      3354
+    ],
+    [
+      "replacement authorization",
+      3354
+    ],
+    [
+      "criteria, and",
+      3354
+    ],
+    [
+      "warehouse transfer",
+      3354
+    ],
+    [
+      "justifications. generalized",
+      3354
+    ],
+    [
+      "ticket updates,",
+      3354
+    ],
+    [
+      "system validation",
+      3354
+    ],
+    [
+      "checkpoints, and",
+      3354
+    ],
+    [
+      "compliance service",
+      3354
+    ],
+    [
+      "checks, downtime",
+      3354
+    ],
+    [
+      "service diagnostics,",
+      3354
+    ],
+    [
+      "downtime internal",
+      3354
+    ],
+    [
+      "diagnostics, audit",
+      3354
+    ],
+    [
+      "internal alerts,",
+      3354
+    ],
+    [
+      "triggers, authorization",
+      3354
+    ],
+    [
+      "replacement criteria,",
+      3354
+    ],
+    [
+      "authorization and",
+      3354
+    ],
+    [
+      "criteria, warehouse",
+      3354
+    ],
+    [
+      "and transfer",
+      3354
+    ],
+    [
+      "warehouse justifications.",
+      3354
+    ],
+    [
+      "transfer generalized",
+      3354
+    ],
+    [
+      "justifications. support",
+      3354
+    ],
+    [
+      "service updates,",
+      3354
+    ],
+    [
+      "ticket system",
+      3354
+    ],
+    [
+      "updates, validation",
+      3354
+    ],
+    [
+      "system checkpoints,",
+      3354
+    ],
+    [
+      "validation and",
+      3354
+    ],
+    [
+      "checkpoints, operational",
+      3354
+    ],
+    [
+      "inventory synchronization",
+      3353
+    ],
+    [
+      "messages, carrier",
+      3353
+    ],
+    [
+      "delay explanations,",
+      3353
+    ],
+    [
+      "packaging compliance",
+      3353
+    ],
+    [
+      "alerts, automated",
+      3353
+    ],
+    [
+      "follow-up triggers,",
+      3353
+    ],
+    [
+      "mismatches, product",
+      3353
+    ],
+    [
+      "scenarios, service",
+      3353
+    ],
+    [
+      "summaries, synchronization",
+      3353
+    ],
+    [
+      "inventory messages,",
+      3353
+    ],
+    [
+      "synchronization carrier",
+      3353
+    ],
+    [
+      "messages, delay",
+      3353
+    ],
+    [
+      "carrier explanations,",
+      3353
+    ],
+    [
+      "delay packaging",
+      3353
+    ],
+    [
+      "explanations, compliance",
+      3353
+    ],
+    [
+      "packaging checks,",
+      3353
+    ],
+    [
+      "audit automated",
+      3353
+    ],
+    [
+      "alerts, follow-up",
+      3353
+    ],
+    [
+      "automated triggers,",
+      3353
+    ],
+    [
+      "follow-up replacement",
+      3353
+    ],
+    [
+      "tracking product",
+      3353
+    ],
+    [
+      "mismatches, inspection",
+      3353
+    ],
+    [
+      "shipment service",
+      3353
+    ],
+    [
+      "scenarios, ticket",
+      3353
+    ],
+    [
+      "cycles. this",
+      3352
+    ],
+    [
+      "logs for",
+      3352
+    ],
+    [
+      "it includes",
+      3352
+    ],
+    [
+      "workflow notes",
+      3352
+    ],
+    [
+      "about package",
+      3352
+    ],
+    [
+      "routing, e-commerce",
+      3352
+    ],
+    [
+      "improvement this",
+      3352
+    ],
+    [
+      "cycles. dataset",
+      3352
+    ],
+    [
+      "operations for",
+      3352
+    ],
+    [
+      "logs variant",
+      3352
+    ],
+    [
+      "variant it",
+      3352
+    ],
+    [
+      "it workflow",
+      3352
+    ],
+    [
+      "includes notes",
+      3352
+    ],
+    [
+      "workflow about",
+      3352
+    ],
+    [
+      "notes package",
+      3352
+    ],
+    [
+      "about routing,",
+      3352
+    ],
+    [
+      "package e-commerce",
+      3352
+    ],
+    [
+      "routing, support",
+      3352
+    ],
+    [
+      "inspection outcomes,",
+      3351
+    ],
+    [
+      "deferred shipment",
+      3351
+    ],
+    [
+      "product outcomes,",
+      3351
+    ],
+    [
+      "inspection deferred",
+      3351
+    ],
+    [
+      "outcomes, shipment",
+      3351
+    ],
+    [
+      "deferred scenarios,",
+      3351
+    ],
+    [
+      "report summaries,",
+      3351
+    ],
+    [
+      "incident summaries,",
+      3351
+    ],
+    [
+      "report inventory",
+      3351
+    ],
+    [
+      "dataset contains",
+      3350
+    ],
+    [
+      "support operations",
+      3350
+    ],
+    [
+      "support troubleshooting,",
+      3350
+    ],
+    [
+      "evaluations, incident",
+      3350
+    ],
+    [
+      "this contains",
+      3350
+    ],
+    [
+      "dataset support",
+      3350
+    ],
+    [
+      "contains operations",
+      3350
+    ],
+    [
+      "support logs",
+      3350
+    ],
+    [
+      "e-commerce troubleshooting,",
+      3350
+    ],
+    [
+      "support refund",
+      3350
+    ],
+    [
+      "eligibility incident",
+      3350
+    ],
+    [
+      "evaluations, report",
+      3350
+    ],
+    [
+      "refund eligibility",
+      3349
+    ],
+    [
+      "troubleshooting, eligibility",
+      3349
+    ],
+    [
+      "refund evaluations,",
+      3349
+    ],
+    [
+      "yab87v. it",
+      2535
+    ],
+    [
+      "variant yab87v.",
+      2525
+    ],
+    [
+      "for yab87v.",
+      2525
+    ],
+    [
+      "yab87v. includes",
+      2525
+    ],
+    [
+      "qjqwp1. it",
+      817
+    ],
+    [
+      "variant qjqwp1.",
+      814
+    ],
+    [
+      "for qjqwp1.",
+      814
+    ],
+    [
+      "qjqwp1. includes",
+      814
+    ],
+    [
+      "variant 1rcdc7.",
+      13
+    ],
+    [
+      "1rcdc7. it",
+      13
+    ],
+    [
+      "for 1rcdc7.",
+      13
+    ],
+    [
+      "1rcdc7. includes",
+      13
+    ]
+  ],
+  "rule_hits": [
+    [
+      1,
+      500
+    ],
+    [
+      2,
+      500
+    ],
+    [
+      3,
+      500
+    ],
+    [
+      4,
+      500
+    ],
+    [
+      5,
+      500
+    ],
+    [
+      6,
+      500
+    ],
+    [
+      7,
+      500
+    ],
+    [
+      9,
+      500
+    ],
+    [
+      10,
+      500
+    ],
+    [
+      12,
+      500
+    ],
+    [
+      11,
+      498
+    ]
+  ],
+  "suggestions": [
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "summaries,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "inventory"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "synchronization"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "messages,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "carrier"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "delay"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "explanations,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "packaging"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "compliance"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "checks,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "service"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "downtime"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "diagnostics,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "internal"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "audit"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "alerts,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "automated"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "follow-up"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "triggers,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "replacement"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "authorization"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "criteria,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "warehouse"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "transfer"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "justifications."
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "generalized"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "support"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "events"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "describe"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "tracking"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "mismatches,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "product"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "inspection"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "outcomes,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "deferred"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "shipment"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "scenarios,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "ticket"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "updates,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "system"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "validation"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "checkpoints,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "operational"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "guidance"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "improvement"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "cycles."
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "this"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "dataset"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "contains"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "operations"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "logs"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "variant"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "1rcdc7."
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "includes"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "workflow"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "notes"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "about"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "package"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "routing,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "e-commerce"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "troubleshooting,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "refund"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "eligibility"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "evaluations,"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "incident"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "report"
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "yab87v."
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    },
+    {
+      "type": "keyword_any",
+      "keywords": [
+        "qjqwp1."
+      ],
+      "score": 1,
+      "source": "auto-generated"
+    }
+  ]
+}

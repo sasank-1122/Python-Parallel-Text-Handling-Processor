@@ -1,0 +1,5 @@
+This is a synthetic large text file generated for performance testing.
+It contains repeated paragraphs to simulate large documents used by the pipeline.
+
+Paragraph: Support operations logs, product inspection results, customer communications, shipment delay explanations, refund eligibility notes, incident report summaries, inventory sync messages, audit logs, diagnostics, service updates, and operational guidance.
+

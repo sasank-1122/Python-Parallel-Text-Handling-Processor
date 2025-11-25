@@ -1,0 +1,546 @@
+[
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "summaries,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "inventory"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "synchronization"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "messages,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "carrier"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "delay"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "explanations,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "packaging"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "compliance"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "checks,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "service"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "downtime"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "diagnostics,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "internal"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "audit"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "alerts,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "automated"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "follow-up"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "triggers,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "replacement"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "authorization"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "criteria,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "warehouse"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "transfer"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "justifications."
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "generalized"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "support"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "events"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "describe"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "tracking"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "mismatches,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "product"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "inspection"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "outcomes,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "deferred"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "shipment"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "scenarios,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "ticket"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "updates,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "system"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "validation"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "checkpoints,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "operational"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "guidance"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "improvement"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "cycles."
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "this"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "dataset"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "contains"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "operations"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "logs"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "variant"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "1rcdc7."
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "includes"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "workflow"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "notes"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "about"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "package"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "routing,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "e-commerce"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "troubleshooting,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "refund"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "eligibility"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "evaluations,"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "incident"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "report"
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "yab87v."
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    },
+    {
+        "type": "keyword_any",
+        "keywords": [
+            "qjqwp1."
+        ],
+        "score": 1,
+        "source": "auto-generated"
+    }
+]

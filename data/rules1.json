@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "label": "support_process",
+    "type": "keyword_any",
+    "keywords": ["support", "issue", "investigation", "routing"],
+    "score": -2
+  },
+  {
+    "id": 2,
+    "label": "refund_related",
+    "type": "keyword_any",
+    "keywords": ["refund", "replacement", "eligibility"],
+    "score": -3
+  },
+  {
+    "id": 3,
+    "label": "shipping_delay",
+    "type": "keyword_any",
+    "keywords": ["delay", "carrier", "shipment"],
+    "score": -2
+  },
+  {
+    "id": 4,
+    "label": "inventory_operations",
+    "type": "keyword_any",
+    "keywords": ["warehouse", "inventory", "processing"],
+    "score": 2
+  },
+  {
+    "id": 5,
+    "label": "audit_positive",
+    "type": "keyword_any",
+    "keywords": ["audit", "verification", "compliance"],
+    "score": 2
+  },
+  {
+    "id": 6,
+    "label": "technical_diagnostics",
+    "type": "keyword_any",
+    "keywords": ["diagnostics", "malfunction", "inspection"],
+    "score": -3
+  },
+  {
+    "id": 7,
+    "label": "tracking_issue",
+    "type": "contains_phrase",
+    "phrase": "tracking mismatch",
+    "score": -3
+  },
+  {
+    "id": 8,
+    "label": "system_alerts",
+    "type": "contains_phrase",
+    "phrase": "system alert",
+    "score": 1
+  },
+  {
+    "id": 9,
+    "label": "improvement_positive",
+    "type": "keyword_any",
+    "keywords": ["optimization", "improvement"],
+    "score": 2
+  },
+  {
+    "id": 10,
+    "label": "long_chunk_bonus",
+    "type": "length_min",
+    "min_chars": 250,
+    "score": 1
+  },
+  {
+    "id": 11,
+    "label": "word_density_bonus",
+    "type": "word_count_min",
+    "min_words": 300,
+    "score": 1
+  },
+  {
+    "id": 12,
+    "label": "missing_error_term",
+    "type": "not_contains",
+    "word": "error",
+    "score": 1
+  }
+]
