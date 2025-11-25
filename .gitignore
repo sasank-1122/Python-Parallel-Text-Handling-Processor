@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Databases
+*.db
+checks.db
+
+# Data folder
+data/
+output/
+improver_output/
+
+*.json
+*.txt
