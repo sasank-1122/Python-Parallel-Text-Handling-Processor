@@ -369,10 +369,8 @@ This saves compute and prevents duplicates.
 - **Charan Teja Mangali** — Lead Developer, System Architect & Mentor
 
 ### 🎓 Student Contributors  
-- **Student Name 1** —   
-- **Student Name 2** —   
-- **Student Name 3** —   
-- **Student Name 4** —    
+- **Student Name 1** —   Sasank Kodapaka
+- **Student Name 2** —   Kishore M
 
 ---
 
