@@ -21,10 +21,10 @@ Everything is automatic.
 import os
 from app.utils import get_env, get_logger, ensure_dir
 from app.storage.storage2 import Storage
-from app.text_processing.parallel_break_loader2 import parallel_process_text, pipeline_from_folder
+from app.text_processing.parallel_break_loader import parallel_process_text, pipeline_from_folder
 from app.search_export.search_save import search_in_storage, save_to_csv
 from app.search_export.emailer import build_summary_email, send_email
-from app.storage.storage_improver2 import StorageImprover
+from app.storage.storage_improver import StorageImprover
 
 logger = get_logger("direct-run", level="INFO")
 
