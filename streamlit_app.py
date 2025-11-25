@@ -1,18 +1,4 @@
 # streamlit_app2.py
-"""
-Improved Streamlit dashboard for Parallel Text Processing Processor.
-
-Features:
-- Logical tab order: Overview -> Upload -> Run Pipeline -> View Records -> Search -> Analytics -> Storage Improver -> Rules Manager -> PDF Report -> Admin
-- Upload manager with list of saved text files
-- Pipeline runner with progress indicator and logs
-- Rules viewer/editor (edits rules.json safely with backup)
-- Pagination for dataframes (fast browsing)
-- DB stats panel
-- Student-friendly info boxes and explanations
-- Download buttons for CSV / PDF
-"""
-
 import os
 import io
 import json
@@ -34,9 +20,9 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.utils import ImageReader
 
 # Project modules (expected to be available in your project)
-from app.storage.storage2 import Storage
+from app.storage.storage import Storage
 from app.search_export.search_save import search_in_storage, save_to_csv
-from app.storage.storage_improver2 import StorageImprover
+from app.storage.storage_improver import StorageImprover
 from app.text_processing.parallel_break_loader import pipeline_from_folder
 from app.utils import get_env, ensure_dir
 
