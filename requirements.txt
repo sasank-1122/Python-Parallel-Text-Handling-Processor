@@ -1,8 +1,0 @@
-streamlit 
-pandas 
-plotly 
-wordcloud 
-matplotlib 
-reportlab
-plotly
-dotenv
